@@ -1,0 +1,21 @@
+.navbar-inverse .navbar-brand{
+	height:100px;
+	padding:40px 15px 30px 30px;
+	
+}
+header.carousel
+header.carousel-inner {
+    height: 10%;
+	width:10%;
+}
+.navbar-inverse .navbar-right{
+	padding:30px 15px 30px 0px;
+}
+header.carousel .carousel-inner {
+    height: 100%;
+}
+header.carousel {
+    height: 50%;
+	width:80%;
+	margin: auto;
+}
